@@ -7,5 +7,4 @@ fn main() {
         println!("Usage: cargo run path/to/game");
         return;
     }
-    println!("Hello, world!");
 }
